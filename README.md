@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tushar Saurabh
 - 👀 I’m interested in programming.  
 - 🌱 I’m currently learning algorithms. I never studied Algorithms and Data Structure, hence I started learning. 
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 reach me at tusharacc@gmail.com
 
 <!---
